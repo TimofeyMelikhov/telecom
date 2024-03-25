@@ -1,5 +1,7 @@
 # Stream telecom
 
+[Просмотр](https://timofeymelikhov.github.io/telecom)
+
 ## Запуск приложения
 
 1. Убедитесь, что у вас установлен Node.js
