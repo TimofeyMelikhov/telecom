@@ -1,0 +1,10 @@
+.mainButton {
+	padding: 5px 10px;
+	cursor: pointer;
+	border-radius: 10px;
+	border: none;
+	&_active {
+		font-weight: 700;
+		color: red;
+	}
+}

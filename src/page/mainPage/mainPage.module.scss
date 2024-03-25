@@ -1,0 +1,13 @@
+.container {
+	width: 80%;
+	margin: 0 auto;
+
+	&__buttonsBlock {
+		margin-top: 20px;
+		display: flex;
+		gap: 10px;
+	}
+	&__usersTable {
+		margin-top: 10px;
+	}
+}
